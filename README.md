@@ -17,7 +17,7 @@ The dataset can be downloaded from Kaggle: [Factors Affecting Campus Placement](
 ## Project Workflow
 
 1.  **Data Loading and Preprocessing:** The dataset was loaded using Pandas and column names were standardized for clarity.
-2.  **Exploratory Data Analysis (EDA):** A thorough EDA was conducted to understand the data's structure, visualize feature distributions using count plots and box plots, and analyze relationships with a correlation heatmap.
+2.  **Exploratory Data Analysis (EDA):** EDA was conducted to understand the data's structure, visualize feature distributions using count plots and box plots, and analyze relationships with a correlation heatmap.
 3.  **Classification Modeling:** Built classification models (Logistic Regression, Random Forest, XGBoost) to predict student placement status.
 4.  **Regression Modeling:** Built regression models (Linear Regression, Random Forest, XGBoost) to predict the salary of placed students.
 
